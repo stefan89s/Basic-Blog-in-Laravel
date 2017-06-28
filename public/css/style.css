@@ -1,0 +1,69 @@
+.space {
+	margin-bottom: 20px;
+}
+
+.space-top {
+	margin-top: 20px;
+}
+
+.article-box {
+	background-color: #3fb21c;
+	width: 800px;
+	height: auto;
+	margin-left: 50px;
+	padding-top: 10px;
+	
+}
+
+.article-box h1, p {
+	color: #3d0b2c;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.article-box h4 {
+	color: #2d2c2d;
+	width: 100px;
+
+	float: right;
+	margin: 0px;
+
+}
+
+.article-box img {
+	width: 100%;
+}
+
+.show-article img{
+	width: 100%;
+}
+
+.sidebar-articles {
+	margin-top: 50px;
+	width: 200px;
+	height: auto;
+	background-color: yellow;
+	float: right;
+	padding: 5px;
+	margin-right: 50px;
+}
+
+.sidebar-articles img {
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+.sidebar-articles small {
+	float: right;
+}
+
+.sidebar-articles p {
+	margin-top: 20px;
+}
+
+.paginate {
+	margin-left: 300px;
+}
+
+
+
